@@ -14,7 +14,7 @@ Content-Type: application/json
 
 ###
 
-DELETE  http://{{localhost}}SalesOrderHeaders(id="1234")
+DELETE  http://{{localhost}}SalesOrderHeaders(id=597bc3db-0c4b-4c26-bff3-5e241b82142f)
 Content-Type: application/json
 
 ###
