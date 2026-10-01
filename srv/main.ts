@@ -1,0 +1,1 @@
+const funct = (variavel: string) => console.log(variavel);
